@@ -31,9 +31,5 @@ form input.oper {
     height: 24px; 
     background-color: #b2b2b2;
 }
-@media (min-width:900px) and (max-width:1200px) {
-    form fieldset {
-        width: 25%;
-        }
-    }
+
     
